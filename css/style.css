@@ -54,11 +54,11 @@
     -moz-transform: translate(-50%,-50%) scale(0.5);
     -ms-transform: translate(-50%,-50%) scale(0.5);
     -o-transform: translate(-50%,-50%) scale(0.5);
-    transition: all 0.15s ease-out;
-    -webkit-transition: all 0.15s ease-out;
-    -moz-transition: all 0.15s ease-out;
-    -ms-transition: all 0.15s ease-out;
-    -o-transition: all 0.15s ease-out;
+    transition: all 0.10s ease-out;
+    -webkit-transition: all 0.10s ease-out;
+    -moz-transition: all 0.10s ease-out;
+    -ms-transition: all 0.10s ease-out;
+    -o-transition: all 0.10s ease-out;
     border: 10px solid #fff;
 }
 .full-image.open{
