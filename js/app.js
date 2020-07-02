@@ -9,6 +9,8 @@ preview.forEach(preview => {
        original.classList.add("open");
        const originalSrc = preview.getAttribute("data-original");
        original.src = `./images/${originalSrc}`;
+       const captext = preview.getAttribute('alt');
+       imgText.innerHTML = captext;
    })
 })
 
